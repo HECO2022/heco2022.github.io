@@ -63,6 +63,4 @@ To download the dataset (images and annotations) please fill the form you will f
 
 # Acknowledgements
 This work is supported by National Key R&D Program of China (2021ZD0113502, 2021ZD0113503), Shanghai Municipal Science and Technology Major Project (2021SHZDZX0103) and National Natural Science Foundation of China under Grant (82090052)
-<br>
 
-Please email dkyang (dkyang@fudan.edu.cn) if you have any questions or comments.
