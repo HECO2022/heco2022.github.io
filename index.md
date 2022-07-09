@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# <center>Homepage for Human Emotion in COntext</center>
 
-You can use the [editor on GitHub](https://github.com/HECO2022/heco2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![图片](images/heco.png)
+## Introduction
+HECO consists of images from the HOI datasets, film clips, and images from Google. The database contains a total number of 9,385 images and 19,781 annotated agents. Such image combination contains rich context information and diverse agent interaction behaviours. Concretely, the percentages of individual images containing one, two, and three or more agents annotated are about 20%, 28%, and 52%, respectively. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<center>
+<img style="width: 缩放比例; border-radius: 0.3125em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+src="images/discret.png">
+<br>
+<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+display: inline-block; color: #999; padding: 2px;">Examples of the eight categories of discrete labels included in the HECO.</div>
+</center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<center>
+<img style="width: 缩放比例; border-radius: 0.3125em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+src="images/contin.png">
+<br>
+<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+display: inline-block; color: #999; padding: 2px;">Examples of the recognized agents with difference scores of Valence (row 1), Arousal (row 2) and Dominance (row 3) included in the HECO.</div>
+</center>
 
-```markdown
-Syntax highlighted code block
+# Download the source for HECO 
+Researcher shall use  HECO  only for non-commercial research and educational purposes.
 
-# Header 1
-## Header 2
-### Header 3
+To download the dataset (images and annotations) please fill the form you will find here (the size of the dataset is approximately 3.2GB).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+*NOTE: Some of the images in the HECO Dataset belong to the public datasets MSCOCO, Ade20k, and EMOTIC.*
 
-**Bold** and _Italic_ and `Code` text
+Code and CNN Models
+Code and trained models for both first and second EMOTIC dataset releases can be found [Here](http://www.baidu.com) .
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HECO2022/heco2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please email Ronak Kosti or Agata Lapedriza if you have any questions or comments.
