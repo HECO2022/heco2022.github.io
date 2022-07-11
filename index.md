@@ -15,7 +15,7 @@ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
 src="images/discret.png">
 <br>
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-display: inline-block; color: #999; padding: 2px;">Examples of the eight categories of discrete labels included in the HECO.</div>
+display: inline-block; color: #999; padding: 2px;">Examples of the recognized agents with different discrete emotion categories are included in the HECO.</div>
 </center>
 <br>
 
@@ -30,11 +30,11 @@ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
 src="images/contin.png">
 <br>
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-display: inline-block; color: #999; padding: 2px;">Examples of the recognized agents with difference scores of Valence (row 1), Arousal (row 2) and Dominance (row 3) included in the HECO.</div>
+display: inline-block; color: #999; padding: 2px;">Examples of the recognized agents with different scores of Valence (row 1), Arousal (row 2) and Dominance (row 3) are included in the HECO.</div>
 </center>
 <br>
 
-Besides, we enforce numerical values to express relative percentages. Each category's count and the distribution of continuous dimensions across different categories are shown as follow.
+Besides, we enforce numerical values to express relative percentages. Each category's count and the distribution of continuous dimensions across different categories are shown as follows.
 
 <center>
 <img style="width: 400px; border-radius: 0.3125em;
