@@ -2,7 +2,7 @@
 
 ![图片](images/heco.png)
 # Introduction
-HECO consists of images from the HOI datasets, film clips, and images from Google. The database contains a total number of 9,385 images and 19,781 annotated agents. Such image combination contains rich context information and diverse agent interaction behaviours. 
+HECO consists of images from the HOI datasets, film clips, and images from the Internet. The database contains a total number of 9,385 images and 19,781 annotated agents. Such image combination contains rich context information and diverse agent interaction behaviours. 
 
 # Annotation
 For **discrete categories**, we annotate with eight categories, including *Surprise*, *Excitement*, *Happiness*, *Peace*, *Disgust*, *Anger*, *Fear*, and *Sadness*.
@@ -30,7 +30,7 @@ box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
 src="images/contin.png">
 <br>
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-display: inline-block; color: #999; padding: 2px;">Examples of the recognized agents with different scores of Valence (row 1), Arousal (row 2) and Dominance (row 3) are included in the HECO.</div>
+display: inline-block; color: #999; padding: 2px;">Examples of the recognized agents with different scores of <i>Valence,</i> (row 1), <i>Arousal</i> (row 2) and <i>Dominance</i> (row 3) are included in the HECO.</div>
 </center>
 <br>
 
