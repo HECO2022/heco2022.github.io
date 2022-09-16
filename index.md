@@ -59,7 +59,7 @@ display: inline-block; color: #999; padding: 2px;">(a) Distribution map of Sa.  
 #  Download the  HECO Dataset
 Researcher should use  HECO  only for non-commercial research and educational purposes.
 
-The dataset (images and annotations) is avaliable at  [here](https://drive.google.com/drive/folders/1js1UoaAeagrHZ5eizInw5ZaWLJurKW-D). Code is available at  [here](https://github.com/HECO2022/heco).
+The dataset (images and annotations) is avaliable at  [here](https://drive.google.com/drive/folders/1js1UoaAeagrHZ5eizInw5ZaWLJurKW-D). 
 
 # Acknowledgements
 This work is supported by National Key R&D Program of China (2021ZD0113502, 2021ZD0113503), Shanghai Municipal Science and Technology Major Project (2021SHZDZX0103) and National Natural Science Foundation of China under Grant (82090052)
